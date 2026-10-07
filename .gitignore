@@ -1,0 +1,12 @@
+# Site repo is public: keep anything private out of it
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+*.csv
+*.json
+records/
+orders/
+*.log
+.DS_Store
